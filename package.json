@@ -1,16 +1,16 @@
 {
-    "name": "dew-baileys",
+    "name": "nadeen-baileys",
     "version": "3.0.8",
-    "description": "WhatsApp Modified By Dew Coders",
+    "description": "WhatsApp Modified By nadeen",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/dew-coders/Dew-Baileys",
+    "homepage": "https://github.com/Nadeenpoorna-app/nadeenzz-baileys",
     "repository": {
-        "url": "https://github.com/dew-coders/Dew-Baileys"
+        "url": "https://github.com/Nadeenpoorna-app/nadeenzz-baileys"
     },
     "license": "MIT",
-    "author": "Hansa Dewmina",
+    "author": "Nadeen poorna",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
