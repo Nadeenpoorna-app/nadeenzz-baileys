@@ -48,7 +48,7 @@
 ## 📌 | IMPORTANT NOTE
 
 <div style="background: linear-gradient(90deg, rgba(239, 68, 68, 0.1), rgba(239, 68, 68, 0.05)); border-left: 4px solid #EF4444; padding: 15px; border-radius: 5px; margin: 20px 0;">
-  <p>⚠️ This is an enhanced and stabilized version maintained by <b>Nadeen Developers</b>. It includes multiple fixes for connection issues, uncropped media support, and exclusive interactive features that are not present in the standard Baileys library.</p>
+  <p>⚠️ This is an enhanced and stabilized version maintained by <b>NadeenXdevs</b>. It includes multiple fixes for connection issues, uncropped media support, and exclusive interactive features that are not present in the standard Baileys library.</p>
 </div>
 
 ## 💫 | INSTALLATION
